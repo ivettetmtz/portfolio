@@ -1,4 +1,3 @@
-
 ---
 layout: default
 title: Home
@@ -203,4 +202,3 @@ description: Ivette Trejo's software engineering portfolio.
   <p>I'm always interested in learning, building, and connecting with people who care about good engineering.</p>
   <a class="button button-primary" href="https://github.com/ivettetmtz" target="_blank" rel="noopener noreferrer">Find me on GitHub <span aria-hidden="true">↗</span></a>
 </section>
-
