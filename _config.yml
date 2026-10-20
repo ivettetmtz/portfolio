@@ -1,5 +1,10 @@
-title: Ivette Trejo
-#logo: /assets/img/headshot_circle.png
-#description: text below image
-show_downloads: true
-theme: jekyll-theme-minimal
+title: "Ivette Trejo | Software Engineer"
+description: "Software engineering, problem-solving, automation, and creative technical projects."
+url: "https://ivettetmtz.github.io"
+baseurl: "/portfolio"
+
+markdown: kramdown
+highlighter: rouge
+
+exclude:
+  - README.md
